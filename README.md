@@ -1,1 +1,3 @@
-# khushiak.github.io
+# Hackerrank solutions
+# Python Basic
+
